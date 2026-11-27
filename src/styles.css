@@ -1,0 +1,70 @@
+.app {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #cbd5e1;
+  border-radius: 12px;
+  background-color: #f8fafc;
+}
+
+.task1-box {
+  background-color: #e8f1ff;
+  border: 2px solid #2563eb;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  color: #1e3a8a;
+}
+
+.task2-box {
+  background-color: #eafaf1;
+  border: 2px solid #16a34a;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.task2-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #ffffff;
+}
+
+.task2-table th,
+.task2-table td {
+  border: 1px solid #86efac;
+  padding: 8px;
+  text-align: left;
+}
+
+.task3-box {
+  background-color: #f5f3ff;
+  border: 2px solid #7c3aed;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  color: #3b0764;
+}
+
+.task3-photo {
+  width: 110px;
+  border-radius: 8px;
+  margin-top: 8px;
+}
+
+.task4-box {
+  background-color: #fff7ed;
+  border: 2px solid #ea580c;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  color: #7c2d12;
+}
+
+.task4-select {
+  padding: 6px 10px;
+  border: 1px solid #fb923c;
+  border-radius: 6px;
+  background-color: #ffffff;
+}
